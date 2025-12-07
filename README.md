@@ -7,7 +7,7 @@
 
 ## 🇬🇧 English
 
-![OpenG7 – Customs Valuation Lab](assets/customs-valuation-lab-banner-en.png)
+![OpenG7 – Customs Valuation Lab](docs/images/customs-valuation-lab.png)
 
 **Open-source modelling lab to bring customs valuation rules closer to real supply chains**
 
@@ -194,7 +194,7 @@ Please open an issue first if you plan a significant change, so we can coordinat
 <a id="francais"></a>
 ## 🇫🇷 Français
 
-![OpenG7 – Customs Valuation Lab](assets/customs-valuation-lab-banner-fr.png)
+![OpenG7 – Customs Valuation Lab](docs/images/customs-valuation-lab.png)
 
 **Laboratoire open source pour rapprocher les règles de valeur en douane des chaînes d’approvisionnement réelles**
 
